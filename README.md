@@ -4,7 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a simple mobile app that builds using the flutter. How to Take Screenshot or Image of Specific Widget and Share it on other applications like Facebook, Whatsapp, Email, Instagram, Facebook messenger, Twitter, TikTok, Pinterest Snapchat, and telegram.
+
+I have used the following flutter packages.
+  cupertino_icons:
+  screenshot: 
+  image_gallery_saver: 
+  permission_handler: 
+  share_plus: 
+  path_provider: 
 
 A few resources to get you started if this is your first Flutter project:
 
